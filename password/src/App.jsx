@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 
 import './App.css'
 import { useRef } from 'react'
-import "tailwindcss"
+
 
 function App() {
   const [length, setLength] = useState(8)
